@@ -22,11 +22,10 @@ This is my personal portfolio website built to showcase my:
 
 - 💻 Projects
 - 🛠 Skills
-- 📚 Education
 - 📄 Resume
 - 📬 Contact Information
 
-The portfolio reflects my journey as a Computer Science student and aspiring software engineer.
+The portfolio reflects my journey as a Computer Science student and aspiring Web Developer.
 
 ---
 
