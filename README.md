@@ -82,7 +82,7 @@ git clone https://github.com/martinmounir/martinportfolio.git
 Go to the project directory:
 
 ```bash
-cd martinportfolio
+cd my-portfolio
 ```
 
 Install dependencies:
