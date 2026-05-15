@@ -108,14 +108,6 @@ npm start
 
 ---
 
-# 📸 PREVIEW
-
-<div align="center">
-
-## HOME PAGE
-<img width="100%" src="./Images/readme-img.png"/>
-
-</div>
 <div align="center">
 
 ### ⭐ IF YOU LIKE THIS PROJECT, GIVE IT A STAR ⭐
